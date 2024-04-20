@@ -1,0 +1,10 @@
+# Common files we don't want to include in the package
+**/.git
+**/logs
+**/*.log
+**/*.md
+.env
+LICENSE
+
+
+
