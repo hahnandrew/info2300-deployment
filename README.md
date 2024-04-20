@@ -4,7 +4,7 @@
 
 I made this utility for Info2300 students to help deploy their PHP web apps to the web.
 
-To best utilize this utility, make sure you have Docker, the AWS Copilot CLI, and a configured AWS account with the AdministratorAccess policy attached to your IAM user.
+To best utilize this utility, make sure you have the AWS Copilot CLI installed and a configured AWS account with the AdministratorAccess policy attached to your IAM user.
 
 - aws iam create-user --user-name \[new-user-name\]
 - aws iam attach-user-policy --policy-arn arn:aws:iam::aws:policy/AdministratorAccess --user-name \[new-user-name\]
